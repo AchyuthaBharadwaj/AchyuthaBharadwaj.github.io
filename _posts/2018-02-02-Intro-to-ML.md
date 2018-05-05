@@ -2,7 +2,7 @@
 title: "Intro to Machine Learning: Linear Regression and Ridge Regression"
 date: 2018-02-02
 tags: [Linear and Ridge Regression]
-excerpt: "Machine Learning, Linear Regression, Ridge Regression, MNIST digit prediction" 
+excerpt: "Linear and Ridge Regression" 
 ---
 
 # Intro to Machine Learning: Linear Regression and Ridge Regression

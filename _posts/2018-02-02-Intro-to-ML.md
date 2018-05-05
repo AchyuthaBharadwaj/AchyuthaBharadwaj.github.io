@@ -3,6 +3,7 @@ title: "Intro to Machine Learning: Linear Regression and Ridge Regression"
 date: 2018-02-02
 tags: [Linear and Ridge Regression]
 excerpt: "Linear and Ridge Regression" 
+mathjax: "true"
 ---
 
 ## Linear Regression

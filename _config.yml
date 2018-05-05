@@ -99,7 +99,7 @@ analytics:
 # Site Author
 author:
   name             : "Achyutha Bharadwaj"
-  avatar           : "/image/Profile-pic.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : #"/assets/image/Profile-pic.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "My Portfolio."
   location         : "Tempe, AZ"
   email            :

@@ -1,8 +1,8 @@
 ---
-title: "Intro to Machine Learning: Linear Regression and Ridge Regression"
+title: "Intro to Machine Learning: Linear, Logistic and Ridge Regression"
 date: 2018-02-02
-tags: [Linear and Ridge Regression]
-excerpt: "Linear and Ridge Regression" 
+tags: [Linear Regression, Logistic Regression, Ridge Regression]
+excerpt: "Linear Regression, Logistic Regression, Ridge Regression" 
 mathjax: "true"
 ---
 
@@ -22,4 +22,10 @@ Dataset from linRegData.npy. The data is a matrix (100, 2). Column 1 is $$x$$ an
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Intro-to-ML/Ridge-Regression.png" alt="fitting a non-linear curve"/>
 
+## Logistic Regression
 
+[link to repository](https://github.com/AchyuthaBharadwaj/Machine-Learning/tree/master/Simple%20Linear%2C%20Logistic%20and%20Ridge%20Regression)
+
+training a basic logistic regression classifier to classify two set of digits from the MNIST dataset. After preprocessing, the dataset loaded contains only digits 0 and 1. logReg.py implements logistic regression. The below plot shows training error vs. iterations.
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Intro-to-ML/Logistic-Regression.png" alt="logistic regression"/>

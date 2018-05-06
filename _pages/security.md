@@ -3,8 +3,6 @@ layout: archive
 permalink: /software-security/
 title: "Software Security"
 author-profile: true
-header:
-    image: "/assets/images/Security-page-banner.jpg"
 ---
 
 {% include base_path %}

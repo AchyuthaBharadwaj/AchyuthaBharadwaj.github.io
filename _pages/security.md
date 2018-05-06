@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink: /machine-learning/
-title: "Machine Learning"
+permalink: /software-security/
+title: "Software Security"
 author-profile: true
 header:
-    image: "/assets/images/Machine-learning-page-banner.jpg"
+    image: "/assets/images/Security-page-banner.jpg"
 ---
 
 {% include base_path %}
@@ -12,7 +12,7 @@ header:
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}
-  {% if tag == "Machine Learning" %}
+  {% if tag == "Security" %}
     {% for post in posts %}
       {% include archive-single.html %}
     {% endfor %}

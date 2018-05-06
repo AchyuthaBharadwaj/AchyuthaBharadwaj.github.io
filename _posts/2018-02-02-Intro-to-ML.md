@@ -1,5 +1,5 @@
 ---
-title: "Intro to Machine Learning: Linear, Logistic and Ridge Regression"
+title: "Linear, Logistic and Ridge Regression"
 date: 2018-02-02
 tags: [Machine Learning, Linear Regression, Logistic Regression, Ridge Regression]
 excerpt: "Linear Regression, Logistic Regression, Ridge Regression" 

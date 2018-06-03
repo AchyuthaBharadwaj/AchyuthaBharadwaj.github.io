@@ -2,7 +2,7 @@
 title: "Movie Recommendation System"
 date: 2018-04-25
 tags: [Machine Learning, Movie Recommender, Recommendation System, Python]
-excerpt: "Movie Recommender, Recommendation System" 
+excerpt: "Implemented a Personalized Movie Recommendation system using collaborative filtering/probabilistic relevance feedback techniques." 
 mathjax: "true"
 toc: true
 ---

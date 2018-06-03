@@ -2,7 +2,7 @@
 title: "Reflector"
 date: 2018-02-20
 tags: [Security, Reflector, Python]
-excerpt: "Reflector, Python" 
+excerpt: "Created a “reflector” which will relaunch attacks sent to a given ip address and ethernet address to the IP address that sent the attack." 
 mathjax: "true"
 ---
 

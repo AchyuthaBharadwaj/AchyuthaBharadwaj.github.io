@@ -2,7 +2,7 @@
 title: "C Backdoor “Web Server”"
 date: 2018-01-23
 tags: [Security, C, Web Server, Backdoor, Sockets]
-excerpt: "C, Web Server, Backdoor, Sockets" 
+excerpt: "A minimal HTTP 1.1 server, based on RFC 2616 from scratch, without using any libraries except for the C standard library." 
 mathjax: "true"
 ---
 

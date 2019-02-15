@@ -13,20 +13,20 @@ This Hackathon For Developers, was a 48 hour experience where developers, web de
 
 CEED is a social network we developed for cancer patients to interact and keep track of their medicines, diet, exercises, etc.
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/goodiehack/goodie-hack-5.jpg)  |  ![]({{ site.url }}{{ site.baseurl }}/assets/images/goodiehack/goodie-hack-4.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/goodiehack/goodie-hack-5.JPG)  |  ![]({{ site.url }}{{ site.baseurl }}/assets/images/goodiehack/goodie-hack-4.JPG)
 
 With Two days of intense effort from all our team members, we were able to completely build a prototype of a social network and present it on the final day. We designed and developed the UI, the backend ASP .NET code and the Web APIs. 
 
- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/goodiehack/goodie-hack-2.jpg" alt="hackathon award"/>
+ <img src="{{ site.url }}{{ site.baseurl }}/assets/images/goodiehack/goodie-hack-2.JPG" alt="hackathon award"/>
 
 CEED was awarded "Built All Pieces of the Product" award.
 
- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/goodiehack/goodie-hack-3.jpg" alt="hackathon award"/>
+ <img src="{{ site.url }}{{ site.baseurl }}/assets/images/goodiehack/goodie-hack-3.JPG" alt="hackathon award"/>
 
 I was interviewed after the hackathon was concluded about my motivation for Volunteering and how my experience was. This was posted on #GoodieNation 's instagram page.
 
 Finally, I had a great time and a sense of pride and contentment of Giving back to the community. It was an awesome experience. #groupselfietime
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/goodiehack/goodie-hack-1.jpg" alt="hackathon award"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/goodiehack/goodie-hack-1.JPG" alt="hackathon award"/>
 
 

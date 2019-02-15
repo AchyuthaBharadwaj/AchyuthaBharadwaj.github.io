@@ -23,7 +23,7 @@ CEED was awarded "Built All Pieces of the Product" award.
 
  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/goodiehack/goodie-hack-3.JPG" alt="hackathon award"/>
 
-I was interviewed after the hackathon was concluded about my motivation for Volunteering and how my experience was. This was posted on #GoodieNation 's instagram page.
+After the hackathon concluded, I was interviewed about my motivation for Volunteering and how my experience was. This was posted on #GoodieNation 's instagram page.
 
 Finally, I had a great time and a sense of pride and contentment of Giving back to the community. It was an awesome experience. #groupselfietime
 

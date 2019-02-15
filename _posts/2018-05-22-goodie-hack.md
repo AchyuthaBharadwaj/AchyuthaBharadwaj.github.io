@@ -17,16 +17,18 @@ CEED is a social network we developed for cancer patients to interact and keep t
 
 With Two days of intense effort from all our team members, we were able to completely build a prototype of a social network and present it on the final day. We designed and developed the UI, the backend ASP .NET code and the Web APIs. 
 
- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/goodiehack/goodie-hack-2.JPG" alt="hackathon award"/>
-
 CEED was awarded "Built All Pieces of the Product" award.
 
- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/goodiehack/goodie-hack-3.JPG" alt="hackathon award"/>
+ <img src="{{ site.url }}{{ site.baseurl }}/assets/images/goodiehack/goodie-hack-2.JPG" alt="hackathon award"/>
 
 After the hackathon concluded, I was interviewed about my motivation for Volunteering and how my experience was. This was posted on #GoodieNation 's instagram page.
+
+ <img src="{{ site.url }}{{ site.baseurl }}/assets/images/goodiehack/goodie-hack-3.JPG" alt="hackathon award"/>
 
 Finally, I had a great time and a sense of pride and contentment of Giving back to the community. It was an awesome experience. #groupselfietime
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/goodiehack/goodie-hack-1.JPG" alt="hackathon award"/>
+
+Cheers!!!
 
 

@@ -1,0 +1,64 @@
+---
+layout: default
+---
+<div class="container">
+	<div class="row">
+		<div class="col col-12">
+			<article class="article-first">
+				<div class="article-image-first" style="background-image: url({{"/img/11.JPG" | prepend: site.baseurl }})">
+					<div class="article-content-first">
+						<div class="article-tag">
+						</div>
+						<h2 class="article-title">Achyutha Bharadwaj</h2>
+						<p class="article-excerpt">Oh hey - Welcome to my blog!! I’m an ASP .NET Full-stack web developer. I’m currently pursuing Masters degree in Computer Science at Arizona State University. I am into Coding, Cooking, Watching Anime and Playing games on Steam.</p>
+						<a href="https://achyuthabharadwaj.github.io/Portfolio" class="button read-more">Portfolio</a>
+					</div>
+				</div>
+			</article> <!-- /.article-first -->
+		</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="row">
+		<div class="col col-12 col-t-8">
+			<div class="row">
+			{%- for post in paginator.posts -%}
+				<article class="article col col-12 col-t-6">
+					<div class="article-box">
+						<div class="article-head">
+							<a href="{{ post.url | prepend: site.baseurl }}" class="article-image" style="background-image: url({{"/img/" | prepend: site.baseurl | append : post.image}})">
+								<div class="image-overlay">
+									<span class="image-overlay-text">{{post.title | slice: 0}}</span>
+								</div>
+							</a>
+						</div>
+						<div class="article-content">
+							<div class="article-info">
+								<div class="article-date">
+									<span class="date"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}{{ post.date | date: date_format }}</time></span>
+								</div>
+								<div class="article-tag">
+								{% if post.tags.size >= 1 %}
+									{% for tag in post.tags %}
+									<a href="{{ site.baseurl }}/tags#{{tag}}" class="tag">{{ tag }}</a>
+									{% endfor %}
+								{% else %} {% endif %}
+								</div>
+							</div>
+							<h2 class="article-title">
+								<a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
+							</h2>
+							<p class="article-excerpt">{% if post.description %}{{ post.description | strip_html | truncate: 135 }}{% else %}{{ post.content | strip_html | truncate: 135 }}{% endif %}</p>
+						</div>
+					</div>
+				</article> <!-- /.article -->
+			{% endfor %}
+			</div>
+			{% include pagination.html %}
+		</div>
+		<div class="col col-12 col-t-4">
+			{% include sidebar.html %}
+		</div>
+	</div>
+</div>

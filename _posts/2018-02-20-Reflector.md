@@ -4,7 +4,7 @@ title: "Attack Reflector"
 date: 2018-02-20
 tags: [Security, Reflector, Python]
 excerpt: "Created a “reflector” which will relaunch attacks sent to a given ip address and ethernet address to the IP address that sent the attack." 
-image: "reflector/reflector-cover.JPG"
+image: "reflector/reflector-cover.jpg"
 ---
 
 [link to repository](https://github.com/AchyuthaBharadwaj/Reflector-python)

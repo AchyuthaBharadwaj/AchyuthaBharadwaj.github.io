@@ -7,11 +7,11 @@ image: portfolio/portfolio-1.JPG
 excerpt: "Created my portfolio" 
 ---
 
+A personal Portfolio is very important to Students like me who are searching for carrer opportunities. I have built my Portfolio inspired by **Levytsroman's** portfolio. Here are some snapshots, 
+
 Live: [https://achyuthabharadwaj.github.io/Portfolio](https://achyuthabharadwaj.github.io/Portfolio)
 
 [link to repository](https://github.com/AchyuthaBharadwaj/Portfolio)
-
-A personal Portfolio is very important to Students like me who are searching for carrer opportunities. I have built my Portfolio inspired by **Levytsroman's** portfolio. Here are some snapshots, 
 
 * The Landing page
 ![]({{ site.url }}{{ site.baseurl }}/img/portfolio/portfolio-1.JPG)

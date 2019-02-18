@@ -6,9 +6,6 @@ tags: [Security, CTF, C, Python]
 image: PCTF/pctf-cover.png
 excerpt: "Participated in Attack and Defense CTF organized by Prof. Adam Doupe at ASU." 
 ---
-
-[link to repository](https://github.com/AchyuthaBharadwaj/PCTF)
-
 ## Attack/Defense CTFs
 
 A key part of studying security is putting our skills to the test in practice. Hacking challenges known as Capture The Flag (CTF) competitions are a great way to do this. CTF is a special kind of information security competition or training. There are two main types of Capture the Flag events: 
@@ -20,6 +17,9 @@ A Jeopardy-style CTF is providing several tasks or so-called “challenges” in
 An Attack/Defense CTF is really spicing up the jeopardy style CTF. Every team has its own “vulnerable” servers and services. Teams must attack other teams application while protecting the own from being hacked. Teams must keep their services up and running and must solve additional tasks and achievements in parallel.
 
 ## PCTF
+
+[link to repository](https://github.com/AchyuthaBharadwaj/PCTF)
+
 There were over 20 teams participating in this PCTF. Each team was given a Virtual Machine hosted on the same central server. The IP addresses of these team VMs were known to everyone beforehand. The goal was to analyze each service, find the vulnerability, create an exploit, launch the exploit at all the other teams, and patch our service.
 
 The scoring system was setup in such a way that it would periodically try to attack other teams VM with our exploit script and for each successful exploit we would be awarded points and at the same time it would deduct points if our VM was exploited by some other team.

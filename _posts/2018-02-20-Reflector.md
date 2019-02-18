@@ -7,11 +7,11 @@ excerpt: "Created a “reflector” which will relaunch attacks sent to a given 
 image: "reflector/reflector-cover.jpg"
 ---
 
-[link to repository](https://github.com/AchyuthaBharadwaj/Reflector-python)
-
 The goal of this project is to create a “reflector” which will relaunch attacks sent to a given ip address and ethernet address to the IP address that sent the attack. This acts as a mirror, such that when an adversary is portscanning a network, they will actually be portscanning themselves. When they launch an exploit at the reflector, the attack will be reflected back at them.
 
 This project is written in Python 2.7.
+
+[link to repository](https://github.com/AchyuthaBharadwaj/Reflector-python)
 
 ## Interface
 

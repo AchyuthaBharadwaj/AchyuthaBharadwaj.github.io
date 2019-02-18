@@ -2,7 +2,7 @@
 layout: post
 title: "Stock Market Prediction using Sentiment Analysis of Tweets"
 date: 2017-11-30
-tags: [Machine Learning, Tweets analysis, Sentiment Analysis, Stock Prediction]
+tags: [Machine Learning, Tweets analysis, Sentiment Analysis, Stock Prediction, Python]
 excerpt: "SVM, Logistic Regression and Multi-layer Perceptron are used on
 the classified sentiment data along with stock price to predict the trends of stock price." 
 image: stock-market-prediction/cover.jpg

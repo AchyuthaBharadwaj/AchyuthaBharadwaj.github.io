@@ -2,7 +2,7 @@
 layout: post
 title:  "Goodie Hack[athon] For Development To #HackCancer"
 date:   2018-05-22
-tags: [Hackathon, Giveback, Volunteer]
+tags: [Hackathon, Giveback, Volunteer, "C#", "ASP .NET"]
 image: goodiehack/goodie-hack-cover.png
 excerpt: "Volunteered as ASP .NET Full-stack web developer at Summer Hackathon by Goodie Nation to address the current health disparities, especially to help Cancer patients." 
 ---

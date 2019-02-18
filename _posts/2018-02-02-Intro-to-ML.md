@@ -2,7 +2,7 @@
 layout: post
 title: "Linear, Logistic and Ridge Regression"
 date: 2018-02-02
-tags: [Machine Learning, Linear Regression, Logistic Regression, Ridge Regression]
+tags: [Machine Learning, Linear Regression, Logistic Regression, Ridge Regression, Python]
 excerpt: "Using linear, Logistic and Ridge regression to find the curve which best fits the data." 
 image: Intro-to-ML/Linear-Reg.png
 ---

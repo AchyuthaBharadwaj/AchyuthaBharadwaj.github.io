@@ -2,7 +2,7 @@
 layout: post
 title:  "Attack/Defense CTF"
 date:   2018-04-11
-tags: [Security, CTF]
+tags: [Security, CTF, C, Python]
 image: PCTF/pctf-cover.png
 excerpt: "Participated in Attack and Defense CTF organized by Prof. Adam Doupe at ASU." 
 ---
